@@ -35,7 +35,6 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
 * Stunning landing page with an animated scroll experience.
 * Call-to-action directing to product listings.
 
-📸 **Screenshot1**
 ![Home page](./screenshot1.png)
 
 ---
@@ -45,7 +44,6 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
 * Grid view of curated featured items.
 * Quick access to trending and hot products.
 
-📸 **Screenshot2**
 ![Featured Products](./screenshot2.png)
 
 ---
@@ -59,10 +57,8 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
   * **Rating Threshold** (via Slider)
   * **Category Selection**
 
-📸 **Screenshot4**
 ![Products Page](./screenshot4.png)
 
-📸 **Screenshot5**
 ![Categories Filter](./screenshot5.png)
 
 ---
@@ -77,7 +73,6 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
   * `/about` → About Us
   * `/contact` → Contact
 
-📸 **Screenshot3**
 ![Tab Switching](./screenshot3.png)
 
 ---
@@ -87,7 +82,6 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
 * Displays developer’s profile with social media link.
 * Highlights branding using logos like YouTube and Instagram.
 
-📸 **Screenshot7**
 ![About Us](./screenshot7.png)
 
 ---
@@ -96,7 +90,6 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
 
 * Simple yet effective display of contact email for user queries.
 
-📸 **Screenshot6**
 ![Contact Page](./screenshot6.png)
 
 ---
@@ -107,7 +100,6 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
 * Responsive and fixed at the bottom of long pages.
 * Provides quick access to the brand identity.
 
-📸 **Screenshot8**
 ![Footer Section](./screenshot8.png)
 
 ---
