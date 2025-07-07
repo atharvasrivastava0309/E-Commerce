@@ -36,7 +36,7 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
 * Call-to-action directing to product listings.
 
 📸 **Screenshot1**
-![Home page](./screenshot%20\(312\).png)
+![Home page](./screenshot%20\(1\).png)
 
 ---
 
@@ -46,7 +46,7 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
 * Quick access to trending and hot products.
 
 📸 **Screenshot2**
-![Featured Products](./screenshot%20\(313\).png)
+![Featured Products](./screenshot%20\(2\).png)
 
 ---
 
@@ -60,10 +60,10 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
   * **Category Selection**
 
 📸 **Screenshot4**
-![Products Page](./screenshot%20\(315\).png)
+![Products Page](./screenshot%20\(4\).png)
 
 📸 **Screenshot5**
-![Categories Filter](./screenshot%20\(316\).png)
+![Categories Filter](./screenshot%20\(5\).png)
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
   * `/contact` → Contact
 
 📸 **Screenshot3**
-![Tab Switching](./screenshot%20\(314\).png)
+![Tab Switching](./screenshot%20\(3\).png)
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
 * Highlights branding using logos like YouTube and Instagram.
 
 📸 **Screenshot7**
-![About Us](./screenshot%20\(318\).png)
+![About Us](./screenshot%20\(7\).png)
 
 ---
 
@@ -97,7 +97,7 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
 * Simple yet effective display of contact email for user queries.
 
 📸 **Screenshot6**
-![Contact Page](./screenshot%20\(317\).png)
+![Contact Page](./screenshot%20\(6\).png)
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to **Ecommerce**, a full-fledged MERN stack project designed for showcas
 * Provides quick access to the brand identity.
 
 📸 **Screenshot8**
-![Footer Section](./screenshot%20\(319\).png)
+![Footer Section](./screenshot%20\(8\).png)
 
 ---
 
